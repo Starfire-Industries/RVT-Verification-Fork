@@ -1,0 +1,122 @@
+# RVT-Verification
+
+**Forked from:** [Kratzramanis/RVT-Verification](https://github.com/Kratzramanis/RVT-Verification)  
+**Original Author:** Dr. Peter Dimitrios Karasmanis (Independent Scholar)  
+**License:** CC0-1.0 (Public Domain Dedication)
+
+---
+
+## About This Fork
+
+This repository preserves and extends the published research of Dr. Peter Dimitrios Karasmanis on Relativistic Vacuum Theory (RVT), also known as Raumvektortheorie (Space Vector Theory).
+
+**Original Publication:**  
+Karasmanis, P. D. (2025). *Relativistic Vacuum Theory: An Alternative to Dark Matter*  
+DOI: [10.5281/zenodo.18523137](https://doi.org/10.5281/zenodo.18523137)
+
+**Maintained by:** Starfire Industries AI  
+**Purpose:**
+- Preservation of published research in perpetuity
+- Development of practical computational tools
+- Independent verification and validation studies
+- Extension of theoretical framework to navigation applications
+
+---
+
+## Repository Contents
+
+### Core Files
+
+**`hammer.ipynb`** - Original Jupyter notebook implementing RVT calculations
+- Boost factor computations based on viewing angle (inclination)
+- Galaxy rotation curve modeling
+- Validation against NGC 891 (edge-on) and M101 (face-on)
+
+**`LICENSE`** - CC0-1.0 Public Domain Dedication (as published by Dr. Karasmanis)
+
+---
+
+## Related Work
+
+**[RVT-Engine](https://github.com/Starfire-Industries/RTV-Engine)** - Practical implementation toolkit
+- Standalone Python calculation engine
+- Windows desktop application (C# + Python)
+- Offline-first architecture for reliability
+- Built from Dr. Karasmanis's published mathematics
+
+---
+
+## Validation Results
+
+The original `hammer.ipynb` code validates RVT against observational data:
+
+**NGC 891** (85° edge-on galaxy):
+- γ (boost factor) = 1.797
+- Normalized divergence = 0.998
+- Matches published rotation curve ✓
+
+**M101** (18° face-on galaxy):
+- γ (boost factor) = 1.247  
+- Normalized divergence = 0.655
+- Matches published rotation curve ✓
+
+**Key Finding:** RVT explains galactic rotation curves with coupling constant C_RVT ≈ 0.8, without requiring dark matter.
+
+---
+
+## Theoretical Foundation
+
+**Core Principle:** Galaxy rotation curves result from projection geometry effects when observing rotating systems from different inclination angles, not from exotic matter distributions.
+
+**Mathematical Framework:**
+- Boost factors derived from relativistic velocity transformations
+- Divergence calculations based on observer viewing angle
+- USK (Umlaufende Spiralgalaxie Kern) position modeling
+- Normalized coupling to observational data
+
+**Implications:** 
+- Alternative cosmological model to ΛCDM
+- Testable predictions for rotation curves at different inclinations
+- Potential applications to spacetime navigation coordinate systems
+
+---
+
+## Attribution & Academic Integrity
+
+All original research, mathematics, and validation data are the work of **Dr. Peter Dimitrios Karasmanis**.
+
+This fork exists to:
+1. **Preserve** published work in accessible format
+2. **Extend** theoretical framework with practical tools
+3. **Validate** independently using published methodology
+4. **Apply** principles to novel domains (with full attribution)
+
+Any extensions or modifications beyond the original work will be clearly documented in separate branches and files.
+
+---
+
+## Contact
+
+**Starfire Industries AI**  
+Colorado, USA  
+https://starfire-industries.github.io  
+gould.dscott@gmail.com
+
+**Original Researcher:**  
+Dr. Peter Dimitrios Karasmanis  
+ORCID: [0009-0006-6943-452X](https://orcid.org/0009-0006-6943-452X)
+
+---
+
+## License
+
+This work is dedicated to the public domain under CC0-1.0 by the original author.
+
+**CC0-1.0 Summary:** You can copy, modify, distribute and perform the work, even for commercial purposes, all without asking permission.
+
+Full license text: [LICENSE](LICENSE)
+
+---
+
+*"Let the future tell the truth, and evaluate each one according to his work and accomplishments. The present is theirs; the future, for which I have really worked, is mine."*  
+— Nikola Tesla
